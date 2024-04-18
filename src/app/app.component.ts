@@ -7,5 +7,5 @@ import { AppModule } from './app.module';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'bases1';
+  title = 'bases';
 }
